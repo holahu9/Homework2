@@ -1,11 +1,17 @@
 .dropdown-item{
     color: teal;
+    }
+
     
-}
 .dropdown-menu{
     background-color: rgb(228, 213, 228);
     
 }
+nav{
+   
+    background-color:  #1B1A1D;
+}
+
 
 h2{ color: turquoise;
     text-align: center;
@@ -16,9 +22,35 @@ h2{ color: turquoise;
     margin: 0 15px;
 }
 
-p{
-color: mediumslateblue;
+.col-sm-4 i{
+    color: mintcream;
+    margin: 30px 100px;
+    
+    
+  
 }
+
+
+p {
+color: snow;
+}
+
+    
+
+footer{
+    
+    text-align: center;
+    padding: 30px 30px;
+    font-weight: lighter;
+    color: white; 
+}
+
+h5{
+    font-weight: lighter;
+}
+
+
+
 
 
 
