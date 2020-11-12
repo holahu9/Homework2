@@ -34,11 +34,11 @@ h2{ color: violet ;
 .col-sm-4 i{
     color: mintcream;
     margin: 30px 100px;
-    
-    
-  
 }
 
+.col-sm-4 i:hover {
+    opacity: 0.5
+}
 
 p {
 color: snow;
@@ -53,6 +53,7 @@ footer{
     font-weight: lighter;
     color: white; 
     text-align: center;
+    padding: 60px 0;
     
    
     
@@ -69,6 +70,7 @@ h5{
 
 hr{
     width:50%; height:0.1px; background: lightgray;
+  
 }
 section{
     position: relative;
