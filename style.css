@@ -1,3 +1,4 @@
+
 .dropdown-item{
     color: violet;
     }
@@ -89,7 +90,22 @@ section{
     
     font-weight: normal;
  }
+.sec2 .img4 img{
+    width:30%;
+}
 
+.sec2 .img5 img{
+    width:30%;
+}
+
+.sec2 .img6 img{
+    width:30%;
+}
+.img4, .img5, .img6{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
 
 
 
