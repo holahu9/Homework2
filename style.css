@@ -90,23 +90,17 @@ section{
     
     font-weight: normal;
  }
-.sec2 .img4 img{
-    width:30%;
-}
 
-.sec2 .img5 img{
-    width:30%;
+ h3{ color: violet ;
+    font-style: oblique;
+    font-weight: lighter;
+    
 }
+.portf-hr{
+    width:20%; height:0.1px; background: lightgray;
+    margin-left: 2px;
 
-.sec2 .img6 img{
-    width:30%;
 }
-.img4, .img5, .img6{
-    display: flex;
-    justify-content: space-around;
-    padding: 15px;
-}
-
 
 
 
