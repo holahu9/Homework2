@@ -6,9 +6,8 @@
     
 .dropdown-menu{
     background-color: grey;
-    
-    
 }
+
 .navbar-brand{
     font-weight: lighter;
     color: dimgray;
@@ -16,8 +15,7 @@
 }
 
 nav{
-   
-    background-color:  #1B1A1D;
+   background-color:  #1B1A1D;
 }
 
 
@@ -26,8 +24,8 @@ h2{ color: violet ;
     margin: 30px;
     font-style: oblique;
     font-weight: lighter;
-    
 }
+
 .col-sm-8 img{
     margin: 0 20px;
 }
@@ -46,37 +44,27 @@ color: snow;
 font-weight: lighter;
 }
 
-    
-
 footer{
-    
-  
     font-weight: lighter;
     color: white; 
     text-align: center;
     padding: 60px 0;
-    
-   
-    
-   
 }
 
 h5{
     
     word-spacing: 15px;
     font-weight: lighter;
-    
-    
 }
 
 hr{
     width:50%; height:0.1px; background: lightgray;
   
 }
+
 section{
     position: relative;
 }
-
 
 .container{
     background-color:#EAEAEA;
