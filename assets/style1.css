@@ -1,3 +1,23 @@
+.dropdown-item{
+    color: violet;
+    }
+
+    
+.dropdown-menu{
+    background-color: grey;
+}
+
+.navbar-brand{
+    font-weight: lighter;
+    color: dimgray;
+    font-size: 20px;
+}
+
+nav{
+   background-color:  #1B1A1D;
+   
+}
+    
     .col-xs-10{
     margin: 10px;
     }
