@@ -2,9 +2,6 @@
 
 
 
-   footer{
-       height:30px;
-   }
 .dropdown-item{
     color: violet;
     }
@@ -22,6 +19,7 @@
 
 nav{
    background-color:  #1B1A1D;
+   
 }
 
 
@@ -100,11 +98,11 @@ section{
 
 }
 
-.col-xm-12{
+.col-sm-10{
     margin: 10px;
     }
     
-    .col-xm-12 img{
+    .col-sm-10 img{
     width:100%;
     margin: 5px;
     }
