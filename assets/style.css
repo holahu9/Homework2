@@ -1,7 +1,13 @@
 
+body{
+    height:100vh;
+}
+
+.cont-content{ 
+    min-height: 615px;
 
 
-
+}
 .dropdown-item{
     color: violet;
     }
